@@ -2,11 +2,11 @@
 6 Şubat depremi ile ilgili uydu, mekansal verileri ve raporların derlendiği sayfadır. 
 
 # Uydu Verileri 
-##Optik
+## Optik
 
-##RADAR
+## RADAR
 
-#Mekansal Verileri
+# Mekansal Veriler
 
-#Raporlar
-#Faydalı Linkler
+# Raporlar
+# Faydalı Linkler
