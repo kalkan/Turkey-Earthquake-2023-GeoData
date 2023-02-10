@@ -21,6 +21,8 @@
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
+* HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
+* 
 
 # Raporlar
 * MTA: https://www.mta.gov.tr/v3.0/sayfalar/bilgi-merkezi/deprem/pdf/Deprem_Bilgi_Notu_2023-02-06_Pazarcik-Kahramanmaras_2.pdf
