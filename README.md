@@ -22,7 +22,8 @@
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
 * HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
-* 
+* MTA Fay Haritaları: https://www.mta.gov.tr/v3.0/hizmetler/yenilenmis-diri-fay-haritalari
+
 # Deprem Verileri
 
 * Kandilli: http://www.koeri.boun.edu.tr/scripts/lst9.asp
