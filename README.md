@@ -14,6 +14,7 @@
 * JAXA: https://www.eorc.jaxa.jp/ALOS/jp/library/disaster/dis_pal2_turkey_earthquake_20230209_j.htm
 * GSI: https://www.gsi.go.jp/cais/topic20230206-e_Turkey.html
 * Capella Space: https://www.capellaspace.com/gallery/2023-islahiye-turkey-earthquake/
+* JPL ARIA Share - ALOS-2 ve Sentinel-1: https://aria-share.jpl.nasa.gov/20230206_Turkey_EQ/
 
 # Mekansal Veriler
 
@@ -24,6 +25,7 @@
 # Raporlar
 * MTA: https://www.mta.gov.tr/v3.0/sayfalar/bilgi-merkezi/deprem/pdf/Deprem_Bilgi_Notu_2023-02-06_Pazarcik-Kahramanmaras_2.pdf
 * Hacettepe Jeoloji: https://jeomuh.hacettepe.edu.tr/2023%20duyuru/6%20%C5%9Eubat%202023%20depremi%20bilgi%20notu_MT%20Y%C3%BCr%C3%BCr.pdf
+* NASA - Satellites Assess Earthquake Damage in Turkey: https://www.jpl.nasa.gov/images/pia25564-satellites-assess-earthquake-damage-in-turkey
 
 # Faydalı Tweetler
 
