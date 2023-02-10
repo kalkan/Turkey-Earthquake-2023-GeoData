@@ -1,4 +1,4 @@
-# Turkey-Earthquake-2023
+# 2023 Depremi Mekansal Veri Derlemesi
 6 Şubat depremi ile ilgili uydu, mekansal verileri ve raporların derlendiği sayfadır. 
 
 # Uydu Verileri 
@@ -23,6 +23,11 @@
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
 * HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
 * 
+# Deprem Verileri
+
+* Kandilli: http://www.koeri.boun.edu.tr/scripts/lst9.asp
+* AFAD: https://deprem.afad.gov.tr/map
+* USGS: https://earthquake.usgs.gov/earthquakes/map/?extent=33.30299,23.73047&extent=43.90581,48.33984
 
 # Raporlar
 * MTA: https://www.mta.gov.tr/v3.0/sayfalar/bilgi-merkezi/deprem/pdf/Deprem_Bilgi_Notu_2023-02-06_Pazarcik-Kahramanmaras_2.pdf
@@ -33,7 +38,13 @@
 
 # Analiz Sonuçları
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
+* Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
 # Arazi Çalışmaları
+
+# Mekansal Bilgi İçeren Haberler
+
+* Havadan Drone Çekimi (Hatay) - Sözcü: https://www.sozcu.com.tr/sozcutv/playlist/sozcutv-homepage/video/deprem-sonrasi-hataydan-gelen-goruntuler-kan-dondurdu-x8hypco/
+
 
 # Faydalı Linkler
 * Copernicus Emergency Management Service: https://activations.emergency.copernicus.eu/#EMSR648
