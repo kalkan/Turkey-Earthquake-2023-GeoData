@@ -27,6 +27,8 @@
 
 # Faydalı Tweetler
 
+# Analiz Sonuçları
+
 # Arazi Çalışmaları
 
 # Faydalı Linkler
