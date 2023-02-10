@@ -60,6 +60,6 @@
 
 Afet sonrası yaralarımızı sardığımızda yapılacak bilimsel çalışmalar için gerekli yer gözlem ve mekansal verileri derlemeyi amaçlıyoruz. 
 
-Destek verenler: [@Prof_ElifSertel](https://twitter.com/Prof_ElifSertel), [@mustuner2](https://twitter.com/mustuner2), [@negengec](https://twitter.com/negengec), [@alican_krc](https://twitter.com/alican_krc), [@MohseniAref](https://twitter.com/MohseniAref
+Destek verenler: [@Prof_ElifSertel](https://twitter.com/Prof_ElifSertel), [@mustuner2](https://twitter.com/mustuner2), [@negengec](https://twitter.com/negengec), [@alican_krc](https://twitter.com/alican_krc), [@MohseniAref](https://twitter.com/MohseniAref)
 
 Katkıda bulunmak isteyenler github kullanıcı adlarını twitter [@kaankalkan](https://twitter.com/kaankalkan)'a yada kalkaan@gmail.com'a gönderebilirler. 
