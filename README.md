@@ -28,7 +28,7 @@
 # Faydalı Tweetler
 
 # Analiz Sonuçları
-
+* Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel*2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 # Arazi Çalışmaları
 
 # Faydalı Linkler
