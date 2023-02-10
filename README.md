@@ -27,6 +27,8 @@
 
 # Faydalı Tweetler
 
+# Arazi Çalışmaları
+
 # Faydalı Linkler
 * Copernicus Emergency Management Service: https://activations.emergency.copernicus.eu/#EMSR648
 * USGS: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive
