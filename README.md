@@ -40,3 +40,4 @@
 * Github - Deprem Yardım Projesi: https://github.com/acikkaynak/deprem-yardim-projesi
 * VisioTerra: https://visioterra.org/VtWeb/?LAYERSTACKID=b2609b45298a4664b9d3e4b6da17d069&sidePanel=false
 * deprem-ml: https://huggingface.co/deprem-ml
+* Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Özel: https://geomatik.beun.edu.tr/deprem-ozel.html
