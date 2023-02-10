@@ -55,3 +55,11 @@
 * VisioTerra: https://visioterra.org/VtWeb/?LAYERSTACKID=b2609b45298a4664b9d3e4b6da17d069&sidePanel=false
 * deprem-ml: https://huggingface.co/deprem-ml
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Özel: https://geomatik.beun.edu.tr/deprem-ozel.html
+
+# Katkı
+
+@Prof_ElifSertel hocanın fikri ile başlattığımız bu sayfada afet sonrası yaralarımızı sardığımızda yapılacak bilimsel çalışmalar için gerekli yer gözlem ve mekansal verileri derlemeyi amaçlıyoruz. 
+
+Destek verenler: @Prof_ElifSertel, @mustuner2, @negengec
+
+Katkıda bulunmak isteyenler github kullanıcı adlarını twitter [@kaankalkan](https://twitter.com/kaankalkan)'a yada kalkaan@gmail.com'a gönderebilirler. 
