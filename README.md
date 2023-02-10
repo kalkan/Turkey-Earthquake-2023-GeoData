@@ -38,6 +38,7 @@
 
 # Analiz Sonuçları
 * NASA Disaster Mapping Portal (ALOS-2): https://earthobservatory.nasa.gov/images/150949/earthquake-damage-in-turkiye
+* Aktif Tektonik Araştırma Grubu - https://atag.itu.edu.tr/v4/?p=1084
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
 # Arazi Çalışmaları
