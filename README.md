@@ -24,6 +24,8 @@
 * MTA: https://www.mta.gov.tr/v3.0/sayfalar/bilgi-merkezi/deprem/pdf/Deprem_Bilgi_Notu_2023-02-06_Pazarcik-Kahramanmaras_2.pdf
 * Hacettepe Jeoloji: https://jeomuh.hacettepe.edu.tr/2023%20duyuru/6%20%C5%9Eubat%202023%20depremi%20bilgi%20notu_MT%20Y%C3%BCr%C3%BCr.pdf
 
+# Faydalı Tweetler
+
 # Faydalı Linkler
 * Copernicus Emergency Management Service: https://activations.emergency.copernicus.eu/#EMSR648
 * USGS: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive
