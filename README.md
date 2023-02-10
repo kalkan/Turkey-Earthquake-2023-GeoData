@@ -27,4 +27,4 @@
 * Copernicus Emergency Management Service: https://activations.emergency.copernicus.eu/#EMSR648
 * USGS: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive
 * International Charter Space & Major Disasters: https://cgt.disasterscharter.org/en/797
-
+* Github - Deprem Yardım Projesi: https://github.com/acikkaynak/deprem-yardim-projesi
