@@ -1,7 +1,8 @@
 # 2023 Depremi Mekansal Veri Derlemesi
 6 Şubat depremi ile ilgili uydu, mekansal verileri ve raporların derlendiği sayfadır. 
 
-# Uydu Verileri 
+# Uydu Verileri (Satellite Data)
+
 ## Optik
 
 * HGM Küre: https://kure.harita.gov.tr
@@ -18,7 +19,7 @@
 * JPL ARIA Share - ALOS-2 ve Sentinel-1: https://aria-share.jpl.nasa.gov/20230206_Turkey_EQ/
 * Sentinel-1 / Sentinel/Asia: https://sentinel-asia.org/EO/2023/article20230206TR.html
 
-# Mekansal Veriler
+# Mekansal Veriler (Geospatial Data)
 
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
@@ -26,25 +27,26 @@
 * HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
 * MTA Fay Haritaları: https://www.mta.gov.tr/v3.0/hizmetler/yenilenmis-diri-fay-haritalari
 
-# Deprem Verileri
+# Deprem Verileri (Earthquake Data)
 
 * Kandilli: http://www.koeri.boun.edu.tr/scripts/lst9.asp
 * AFAD: https://deprem.afad.gov.tr/map
 * USGS: https://earthquake.usgs.gov/earthquakes/map/?extent=33.30299,23.73047&extent=43.90581,48.33984
 
-# Raporlar
+# Raporlar (Reports)
+
 * AFAD: https://deprem.afad.gov.tr/earthquake-reports
 * MTA: https://www.mta.gov.tr/v3.0/sayfalar/bilgi-merkezi/deprem/pdf/Deprem_Bilgi_Notu_2023-02-06_Pazarcik-Kahramanmaras_2.pdf
 * Hacettepe Jeoloji: https://jeomuh.hacettepe.edu.tr/2023%20duyuru/6%20%C5%9Eubat%202023%20depremi%20bilgi%20notu_MT%20Y%C3%BCr%C3%BCr.pdf
 * NASA - Satellites Assess Earthquake Damage in Turkey: https://www.jpl.nasa.gov/images/pia25564-satellites-assess-earthquake-damage-in-turkey
 * İBB: https://8luvomezzzsk.merlincdn.net/wp-content/uploads/2023/02/ibb_gaziantep-kahramanmaras_deprem_10022023-1600.pdf
 
-# Faydalı Tweetler
+# Faydalı Tweetler (Tweets) 
 * Planet: https://twitter.com/planet
 * Maxar: https://twitter.com/Maxar
 * NERC COMET: https://twitter.com/NERC_COMET
 
-# Analiz Sonuçları
+# Analiz Sonuçları (Analysis)
 * NASA Disaster Mapping Portal (ALOS-2): https://earthobservatory.nasa.gov/images/150949/earthquake-damage-in-turkiye
 * Aktif Tektonik Araştırma Grubu - https://atag.itu.edu.tr/v4/?p=1084
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Çalışmaları - https://geomatik.beun.edu.tr/deprem-calismalarimiz.html
@@ -52,13 +54,13 @@
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
 # Arazi Çalışmaları
 
-# Mekansal Bilgi İçeren Haberler
+# Mekansal Bilgi İçeren Haberler (News)
 
 * Havadan Drone Çekimi (Hatay) - Sözcü: https://www.sozcu.com.tr/sozcutv/playlist/sozcutv-homepage/video/deprem-sonrasi-hataydan-gelen-goruntuler-kan-dondurdu-x8hypco/
 * Deprem sonrası zeytin bahçesinde dehşete düşüren görüntü (Habertürk) - https://www.haberturk.com/zeytin-bahcesinde-dehsete-dusuren-goruntu-3564672/5
 * Kahramanmaraş’taki fay kırığı böyle görüntülendi (TRT Haber) - https://www.youtube.com/watch?v=3oKmI-If8Y4
 
-# Faydalı Linkler
+# Faydalı Linkler (Other Links)
 * ESRI Earthquake Public Information Map: https://www.esri.com/en-us/disaster-response/disasters/earthquakes
 * NASA Applied Sciences: https://appliedsciences.nasa.gov/what-we-do/disasters/disasters-activations/turkiye-syria-earthquakes-2023
 * Copernicus Emergency Management Service: https://activations.emergency.copernicus.eu/#EMSR648
@@ -69,7 +71,7 @@
 * deprem-ml: https://huggingface.co/deprem-ml
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Özel: https://geomatik.beun.edu.tr/deprem-ozel.html
 
-# Katkı
+# Katkı (Contributions)
 
 Afet sonrası yaralarımızı sardığımızda yapılacak bilimsel çalışmalar için gerekli yer gözlem ve mekansal verileri derlemeyi amaçlıyoruz. 
 
