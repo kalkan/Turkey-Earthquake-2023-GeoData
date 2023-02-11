@@ -3,7 +3,7 @@
 
 # Uydu Verileri (Satellite Data)
 
-## Optik
+## Optik (Optical)
 
 * HGM Küre: https://kure.harita.gov.tr
 * İTÜ UHUZAM: https://web.cscrs.itu.edu.tr/deprem-bolgesine-ait-yuksek-cozunurluklu-uydu-goruntuleri-web-harita-servisi-olarak-yayinlandi/
@@ -52,7 +52,7 @@
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Çalışmaları - https://geomatik.beun.edu.tr/deprem-calismalarimiz.html
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
-# Arazi Çalışmaları
+# Arazi Çalışmaları (Field Works)
 
 # Mekansal Bilgi İçeren Haberler (News)
 
