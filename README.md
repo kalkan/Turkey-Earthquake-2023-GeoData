@@ -22,6 +22,7 @@
 # Mekansal Veriler (Geospatial Data)
 
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
+* Başarsoft: https://deprem.basarsoft.com.tr/V2
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
 * HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
