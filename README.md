@@ -54,7 +54,7 @@
 # Mekansal Bilgi İçeren Haberler
 
 * Havadan Drone Çekimi (Hatay) - Sözcü: https://www.sozcu.com.tr/sozcutv/playlist/sozcutv-homepage/video/deprem-sonrasi-hataydan-gelen-goruntuler-kan-dondurdu-x8hypco/
-
+* Deprem sonrası zeytin bahçesinde dehşete düşüren görüntü (Habertürk) - https://www.haberturk.com/zeytin-bahcesinde-dehsete-dusuren-goruntu-3564672/5
 
 # Faydalı Linkler
 * ESRI Earthquake Public Information Map: https://www.esri.com/en-us/disaster-response/disasters/earthquakes
