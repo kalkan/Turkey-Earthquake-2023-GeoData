@@ -8,6 +8,7 @@
 * İTÜ UHUZAM: https://web.cscrs.itu.edu.tr/deprem-bolgesine-ait-yuksek-cozunurluklu-uydu-goruntuleri-web-harita-servisi-olarak-yayinlandi/
 * Maxar: https://www.maxar.com/open-data/turkey-earthquake-2023
 * Airbus: https://www.intelligence-airbusds.com/en/5751-image-gallery-details?img=77502#.Y-OB02TMKko
+* OpenAerialMap: https://openaerialmap.org/
 
 ## RADAR
 
@@ -15,6 +16,7 @@
 * GSI: https://www.gsi.go.jp/cais/topic20230206-e_Turkey.html
 * Capella Space: https://www.capellaspace.com/gallery/2023-islahiye-turkey-earthquake/
 * JPL ARIA Share - ALOS-2 ve Sentinel-1: https://aria-share.jpl.nasa.gov/20230206_Turkey_EQ/
+* Sentinel-1 / Sentinel/Asia: https://sentinel-asia.org/EO/2023/article20230206TR.html
 
 # Mekansal Veriler
 
@@ -34,8 +36,12 @@
 * MTA: https://www.mta.gov.tr/v3.0/sayfalar/bilgi-merkezi/deprem/pdf/Deprem_Bilgi_Notu_2023-02-06_Pazarcik-Kahramanmaras_2.pdf
 * Hacettepe Jeoloji: https://jeomuh.hacettepe.edu.tr/2023%20duyuru/6%20%C5%9Eubat%202023%20depremi%20bilgi%20notu_MT%20Y%C3%BCr%C3%BCr.pdf
 * NASA - Satellites Assess Earthquake Damage in Turkey: https://www.jpl.nasa.gov/images/pia25564-satellites-assess-earthquake-damage-in-turkey
+* İBB: https://8luvomezzzsk.merlincdn.net/wp-content/uploads/2023/02/ibb_gaziantep-kahramanmaras_deprem_10022023-1600.pdf
 
 # Faydalı Tweetler
+* Planet: https://twitter.com/planet
+* Maxar: https://twitter.com/Maxar
+* NERC COMET: https://twitter.com/NERC_COMET
 
 # Analiz Sonuçları
 * NASA Disaster Mapping Portal (ALOS-2): https://earthobservatory.nasa.gov/images/150949/earthquake-damage-in-turkiye
@@ -51,6 +57,8 @@
 
 
 # Faydalı Linkler
+* ESRI Earthquake Public Information Map: https://www.esri.com/en-us/disaster-response/disasters/earthquakes
+* NASA Applied Sciences: https://appliedsciences.nasa.gov/what-we-do/disasters/disasters-activations/turkiye-syria-earthquakes-2023
 * Copernicus Emergency Management Service: https://activations.emergency.copernicus.eu/#EMSR648
 * USGS: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive
 * International Charter Space & Major Disasters: https://cgt.disasterscharter.org/en/797
