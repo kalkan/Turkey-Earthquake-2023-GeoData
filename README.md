@@ -45,7 +45,7 @@
 * NASA - Satellites Assess Earthquake Damage in Turkey: https://www.jpl.nasa.gov/images/pia25564-satellites-assess-earthquake-damage-in-turkey
 * İBB: https://8luvomezzzsk.merlincdn.net/wp-content/uploads/2023/02/ibb_gaziantep-kahramanmaras_deprem_10022023-1600.pdf
 * Hellenic Society of Soil Mechanics & Geotechnical Engineering (Greece) - https://www.linkedin.com/feed/update/urn:li:activity:7029163076784443392/
-* * Earth Obsevatory of Singapore - Remote Sensing (EOS-RS): https://eos-rs-products.earthobservatory.sg/EOS-RS_202302_Turkiye_Syria_Earthquake
+* Earth Obsevatory of Singapore - Remote Sensing (EOS-RS): https://eos-rs-products.earthobservatory.sg/EOS-RS_202302_Turkiye_Syria_Earthquake
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
