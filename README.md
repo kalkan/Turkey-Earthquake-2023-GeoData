@@ -59,6 +59,7 @@
 
 # Analiz Sonuçları (Analysis)
 * NASA Disaster Mapping Portal (ALOS-2): https://earthobservatory.nasa.gov/images/150949/earthquake-damage-in-turkiye
+* ESA: https://www.esa.int/Applications/Observing_the_Earth/Satellites_support_impact_assessment_after_Tuerkiye_Syria_earthquakes
 * Aktif Tektonik Araştırma Grubu - https://atag.itu.edu.tr/v4/?p=1084
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Çalışmaları - https://geomatik.beun.edu.tr/deprem-calismalarimiz.html
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
