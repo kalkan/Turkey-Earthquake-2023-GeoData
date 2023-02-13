@@ -67,6 +67,12 @@
 
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
+* https://twitter.com/CGokceoglu
+* https://twitter.com/CengizZabci
+* https://twitter.com/akyuz24
+* https://twitter.com/arduvaz06
+* https://twitter.com/geodesist_a
+* https://twitter.com/KokumMehmet
 
 # Mekansal Bilgi İçeren Haberler (News)
 
