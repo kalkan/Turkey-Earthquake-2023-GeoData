@@ -23,7 +23,7 @@
 * 
 # Mekansal Veriler (Geospatial Data)
 
-* CBS Genel Müdürlüğü A
+* CBS Genel Müdürlüğü - https://atlas.gov.tr/
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
