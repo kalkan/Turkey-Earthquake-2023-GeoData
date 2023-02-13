@@ -29,6 +29,7 @@
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
 * HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
 * MTA Fay Haritaları: https://www.mta.gov.tr/v3.0/hizmetler/yenilenmis-diri-fay-haritalari
+* OSM'den hasarlı bina verisini çekme: https://overpass-turbo.eu/s/1rhM
 
 # Deprem Verileri (Earthquake Data)
 
@@ -64,7 +65,7 @@
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
 * Yunmeng Cao - Sentinel-1: https://twitter.com/yunmengCao/status/1624658633601720320
-* 
+
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
 
