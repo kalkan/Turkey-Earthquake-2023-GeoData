@@ -23,7 +23,6 @@
 # Mekansal Veriler (Geospatial Data)
 
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
-* Başarsoft: https://deprem.basarsoft.com.tr/V2
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
 * HOT Tasking Manager: https://tasks.hotosm.org/projects/14235
@@ -43,6 +42,11 @@
 * NASA - Satellites Assess Earthquake Damage in Turkey: https://www.jpl.nasa.gov/images/pia25564-satellites-assess-earthquake-damage-in-turkey
 * İBB: https://8luvomezzzsk.merlincdn.net/wp-content/uploads/2023/02/ibb_gaziantep-kahramanmaras_deprem_10022023-1600.pdf
 
+# Portaller
+* Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
+* Başarsoft: https://deprem.basarsoft.com.tr/V2
+* Socioeconomic Data and Applications Center - https://sedac.ciesin.columbia.edu/mapping/hazards/
+
 # Faydalı Tweetler (Tweets) 
 * Planet: https://twitter.com/planet
 * Maxar: https://twitter.com/Maxar
@@ -55,6 +59,7 @@
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
 # Arazi Çalışmaları (Field Works)
+* Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
 
 # Mekansal Bilgi İçeren Haberler (News)
 
