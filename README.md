@@ -20,7 +20,7 @@
 * JPL ARIA Share - ALOS-2 ve Sentinel-1: https://aria-share.jpl.nasa.gov/20230206_Turkey_EQ/
 * Sentinel-1 / Sentinel/Asia: https://sentinel-asia.org/EO/2023/article20230206TR.html
 * GTU Harita: https://www.linkedin.com/feed/update/urn:li:activity:7030446893453258752/
-* 
+
 # Mekansal Veriler (Geospatial Data)
 
 * CBS Genel Müdürlüğü - https://atlas.gov.tr/
@@ -51,7 +51,6 @@
 * Başarsoft: https://deprem.basarsoft.com.tr/V2
 * Socioeconomic Data and Applications Center - https://sedac.ciesin.columbia.edu/mapping/hazards/
 * Deprem izleme arayüzü @EsriTurkiye - https://drp-esriturkiye.hub.arcgis.com
-
 
 # Faydalı Tweetler (Tweets) 
 * Planet: https://twitter.com/planet
