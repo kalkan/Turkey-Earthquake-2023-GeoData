@@ -19,9 +19,11 @@
 * Capella Space: https://www.capellaspace.com/gallery/2023-islahiye-turkey-earthquake/
 * JPL ARIA Share - ALOS-2 ve Sentinel-1: https://aria-share.jpl.nasa.gov/20230206_Turkey_EQ/
 * Sentinel-1 / Sentinel/Asia: https://sentinel-asia.org/EO/2023/article20230206TR.html
-
+* GTU Harita: https://www.linkedin.com/feed/update/urn:li:activity:7030446893453258752/
+* 
 # Mekansal Veriler (Geospatial Data)
 
+* CBS Genel Müdürlüğü A
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
@@ -41,11 +43,14 @@
 * Hacettepe Jeoloji: https://jeomuh.hacettepe.edu.tr/2023%20duyuru/6%20%C5%9Eubat%202023%20depremi%20bilgi%20notu_MT%20Y%C3%BCr%C3%BCr.pdf
 * NASA - Satellites Assess Earthquake Damage in Turkey: https://www.jpl.nasa.gov/images/pia25564-satellites-assess-earthquake-damage-in-turkey
 * İBB: https://8luvomezzzsk.merlincdn.net/wp-content/uploads/2023/02/ibb_gaziantep-kahramanmaras_deprem_10022023-1600.pdf
+* Hellenic Society of Soil Mechanics & Geotechnical Engineering (Greece) - https://www.linkedin.com/feed/update/urn:li:activity:7029163076784443392/
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
 * Başarsoft: https://deprem.basarsoft.com.tr/V2
 * Socioeconomic Data and Applications Center - https://sedac.ciesin.columbia.edu/mapping/hazards/
+* Deprem izleme arayüzü @EsriTurkiye - https://drp-esriturkiye.hub.arcgis.com
+
 
 # Faydalı Tweetler (Tweets) 
 * Planet: https://twitter.com/planet
@@ -58,6 +63,8 @@
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Çalışmaları - https://geomatik.beun.edu.tr/deprem-calismalarimiz.html
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
+* Yunmeng Cao - Sentinel-1: https://twitter.com/yunmengCao/status/1624658633601720320
+* 
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
 
@@ -65,7 +72,9 @@
 
 * Havadan Drone Çekimi (Hatay) - Sözcü: https://www.sozcu.com.tr/sozcutv/playlist/sozcutv-homepage/video/deprem-sonrasi-hataydan-gelen-goruntuler-kan-dondurdu-x8hypco/
 * Deprem sonrası zeytin bahçesinde dehşete düşüren görüntü (Habertürk) - https://www.haberturk.com/zeytin-bahcesinde-dehsete-dusuren-goruntu-3564672/5
+* Olive Grove: https://twitter.com/achopkins1/status/1624716608902950915
 * Kahramanmaraş’taki fay kırığı böyle görüntülendi (TRT Haber) - https://www.youtube.com/watch?v=3oKmI-If8Y4
+* Yol Çökmeleri Video: https://twitter.com/HavaForum/status/1624743536800284677
 
 # Faydalı Linkler (Other Links)
 * ESRI Earthquake Public Information Map: https://www.esri.com/en-us/disaster-response/disasters/earthquakes
