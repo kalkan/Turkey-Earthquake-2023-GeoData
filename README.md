@@ -83,6 +83,7 @@
 * Olive Grove: https://twitter.com/achopkins1/status/1624716608902950915
 * Kahramanmaraş’taki fay kırığı böyle görüntülendi (TRT Haber) - https://www.youtube.com/watch?v=3oKmI-If8Y4
 * Yol Çökmeleri Video: https://twitter.com/HavaForum/status/1624743536800284677
+* Deprem Sonrası Dev Çukur: https://www.ntv.com.tr/galeri/turkiye/deprem-sonrasi-dev-cukur-genisligi-30-derinligi-8-metre,YVkfKJOnlkilpXUS_cuqOw/I8ZUb0b-4EWTcszLldqJSQ
 
 # Faydalı Linkler (Other Links)
 * ESRI Earthquake Public Information Map: https://www.esri.com/en-us/disaster-response/disasters/earthquakes
