@@ -77,6 +77,12 @@
 * https://twitter.com/arduvaz06
 * https://twitter.com/geodesist_a
 * https://twitter.com/KokumMehmet
+* https://twitter.com/mkorhanerturac
+* https://twitter.com/AynurDikbas
+* https://twitter.com/ziyadin
+* https://twitter.com/sergintav
+* https://twitter.com/tsancar
+* https://twitter.com/arduvaz06
 
 # Mekansal Bilgi İçeren Haberler (News)
 
