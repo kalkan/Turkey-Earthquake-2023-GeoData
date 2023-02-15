@@ -47,6 +47,7 @@
 * İBB: https://8luvomezzzsk.merlincdn.net/wp-content/uploads/2023/02/ibb_gaziantep-kahramanmaras_deprem_10022023-1600.pdf
 * Hellenic Society of Soil Mechanics & Geotechnical Engineering (Greece) - https://www.linkedin.com/feed/update/urn:li:activity:7029163076784443392/
 * Earth Obsevatory of Singapore - Remote Sensing (EOS-RS): https://eos-rs-products.earthobservatory.sg/EOS-RS_202302_Turkiye_Syria_Earthquake
+* DLR: https://www.dlr.de/content/de/artikel/news/2023/01/20230214_landoberflaeche-hat-sich-um-bis-zu-sechs-meter-verschoben.html
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
