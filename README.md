@@ -67,6 +67,7 @@
 * Zonguldak Bülent Ecevit Üniversitesi Geomatik Mühendisliği Bölümü Deprem Çalışmaları - https://geomatik.beun.edu.tr/deprem-calismalarimiz.html
 * Centre for the Observation & Modelling of Earthquakes, Volcanoes & Tectonics - Sentinel-2 Pixel Tracking: https://twitter.com/COMET_database/status/1624012705693589504
 * Remote sensing laboratory in University of Tabriz, Iran (Sentinel-1) - Damage proxy map of Kahramanmaras earthquakes (2023.02.06), Turkey: https://rslut.ir/409-2/
+* Dr. Chris Milliner, Earthquake scientist Caltech, the fault offsets and fault traces: https://drive.google.com/drive/folders/1Qyp5V_CzG5kSgeAaQQ0VqwkEVntPB0NK
 * Yunmeng Cao - Sentinel-1: https://twitter.com/yunmengCao/status/1624658633601720320
 * HKMO: https://www.hkmo.org.tr/genel-merkez/haberler/detay/101766
 * USGS - M 7.8 - 27 km E of Nurdağı, Turkey: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/finite-fault
