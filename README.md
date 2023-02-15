@@ -69,7 +69,7 @@
 * Yunmeng Cao - Sentinel-1: https://twitter.com/yunmengCao/status/1624658633601720320
 * HKMO: https://www.hkmo.org.tr/genel-merkez/haberler/detay/101766
 * USGS - M 7.8 - 27 km E of Nurdağı, Turkey: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/finite-fault
-* USGS - M 7.5 - 4 km SSE of Ekinözü, Turkey:https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa/finite-fault
+* USGS - M 7.5 - 4 km SSE of Ekinözü, Turkey: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa/finite-fault
 
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
