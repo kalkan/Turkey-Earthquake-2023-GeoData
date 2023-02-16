@@ -26,6 +26,7 @@
 # Mekansal Veriler (Geospatial Data)
 
 * CBS Genel Müdürlüğü - https://atlas.gov.tr/
+* NASA Products for the Türkiye Earthquakes 2023: https://maps.disasters.nasa.gov/arcgis/apps/MinimalGallery/index.html?appid=cb116456d682456abc38b90d96a72713
 * TUSAGA Aktif: https://www.tusaga-aktif.gov.tr/Web/DepremVerileri.aspx
 * Twitter: https://github.com/gulnerman/Feb2023_TurkeyEarthquake
 * Blackshark.ai - Building Footprints and Change Detection: https://github.com/blackshark-ai/Turkey-Earthquake-2023-Building-Change-Detection
