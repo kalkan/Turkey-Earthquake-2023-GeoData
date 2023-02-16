@@ -49,6 +49,7 @@
 * Hellenic Society of Soil Mechanics & Geotechnical Engineering (Greece) - https://www.linkedin.com/feed/update/urn:li:activity:7029163076784443392/
 * Earth Obsevatory of Singapore - Remote Sensing (EOS-RS): https://eos-rs-products.earthobservatory.sg/EOS-RS_202302_Turkiye_Syria_Earthquake
 * DLR: https://www.dlr.de/content/de/artikel/news/2023/01/20230214_landoberflaeche-hat-sich-um-bis-zu-sechs-meter-verschoben.html
+* TBMM: https://www5.tbmm.gov.tr/sirasayi/donem27/yil01/ss278.pdf
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
