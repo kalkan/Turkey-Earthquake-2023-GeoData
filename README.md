@@ -6,6 +6,7 @@
 ## Optik (Optical)
 
 * HGM Atlas: https://atlas.harita.gov.tr/
+* Deprem Sonrası 3B Veriler: https://basic.atlas.gov.tr/
 * HGM Küre: https://kure.harita.gov.tr
 * İTÜ UHUZAM: https://web.cscrs.itu.edu.tr/deprem-bolgesine-ait-yuksek-cozunurluklu-uydu-goruntuleri-web-harita-servisi-olarak-yayinlandi/
 * Maxar: https://www.maxar.com/open-data/turkey-earthquake-2023
