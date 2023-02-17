@@ -12,6 +12,7 @@
 * Maxar: https://www.maxar.com/open-data/turkey-earthquake-2023
 * Airbus: https://www.intelligence-airbusds.com/en/5751-image-gallery-details?img=77502#.Y-OB02TMKko
 * OpenAerialMap: https://openaerialmap.org/
+* Hidenori Watanave Storytelling: https://turkey.archiving.jp/
 * Planet, Maxar ve Capella Space Verileri (CC lisanslı), Batuhan Kavlak'ın Hesabı: https://docs.google.com/spreadsheets/d/1sO_cR_cvaEuKbchA3WwAaEuhZhuF3ExZGrFEp8pwl3M/ 
 
 ## RADAR
