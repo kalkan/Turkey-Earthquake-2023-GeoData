@@ -95,6 +95,7 @@
 * https://twitter.com/ziyadin
 * https://twitter.com/sergintav
 * https://twitter.com/tsancar
+* https://twitter.com/OzgurKozaci
 * https://twitter.com/arduvaz06
 * https://www.linkedin.com/feed/update/urn:li:activity:7030953410224959488/
 
