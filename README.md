@@ -53,6 +53,7 @@
 * DLR: https://www.dlr.de/content/de/artikel/news/2023/01/20230214_landoberflaeche-hat-sich-um-bis-zu-sechs-meter-verschoben.html
 * TBMM: https://www5.tbmm.gov.tr/sirasayi/donem27/yil01/ss278.pdf
 * ESA: https://www.esa.int/Applications/Observing_the_Earth/Satellites_support_impact_assessment_after_Tuerkiye_Syria_earthquakes
+* İTÜ: https://haberler.itu.edu.tr/haberdetay/2023/02/17/itu-den-2023-deprem-raporu
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
