@@ -79,6 +79,8 @@
 * HKMO: https://www.hkmo.org.tr/genel-merkez/haberler/detay/101766
 * USGS - M 7.8 - 27 km E of Nurdağı, Turkey: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/finite-fault
 * USGS - M 7.5 - 4 km SSE of Ekinözü, Turkey: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa/finite-fault
+* Mike Floyd GNSS Displacement: https://twitter.com/mfloydgeo/status/1626263659742724099
+* USGS - Surface Rapture Lines: https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5229bb842bd64b688d769abbefe43b46
 
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
