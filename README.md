@@ -55,6 +55,7 @@
 * TBMM: https://www5.tbmm.gov.tr/sirasayi/donem27/yil01/ss278.pdf
 * ESA: https://www.esa.int/Applications/Observing_the_Earth/Satellites_support_impact_assessment_after_Tuerkiye_Syria_earthquakes
 * İTÜ: https://haberler.itu.edu.tr/haberdetay/2023/02/17/itu-den-2023-deprem-raporu
+* ODTU: https://eerc.metu.edu.tr/en/system/files/documents/DMAM_Report_2023_Kahramanmaras-Pazarcik_and_Elbistan_Earthquakes_Report_final_ENG.pdf
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
