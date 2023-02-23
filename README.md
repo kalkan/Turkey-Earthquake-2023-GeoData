@@ -1,5 +1,5 @@
 # 2023 Kahramanmaraş Depremi Mekansal Veri Derlemesi (2023 Kahramanmaraş, Türkiye Earthquake Spatial Data Compilation) 
-6 Şubat depremi ile ilgili uydu, mekansal verileri ve raporların derlendiği sayfadır. 
+6 Şubat 2023 Kahramanmaraş depremi ile ilgili uydu verileri, mekansal veriler ve raporların derlendiği sayfadır. 
 
 # Uydu Verileri (Satellite Data)
 
