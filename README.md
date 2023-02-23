@@ -85,6 +85,9 @@
 * USGS - M 7.5 - 4 km SSE of Ekinözü, Turkey: https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa/finite-fault
 * Mike Floyd GNSS Displacement: https://twitter.com/mfloydgeo/status/1626263659742724099
 * USGS - Surface Rapture Lines: https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5229bb842bd64b688d769abbefe43b46
+* Geospatial Information Authority of Japan - SAR Interferograms: https://www.gsi.go.jp/cais/topic20230206-e_Turkey.html
+* JAXA - Analysis examples by JAXA (ALOS-2): https://earth.jaxa.jp/en/earthview/2023/02/14/7381/index.html 
+* Sentinel Asia - Deprem Sonrası Hasar Tespit Haritaları:https://sentinel-asia.org/EO/2023/article20230206TR.html
 
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
