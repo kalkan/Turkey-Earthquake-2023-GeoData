@@ -23,6 +23,7 @@
 * JPL ARIA Share - ALOS-2 ve Sentinel-1: https://aria-share.jpl.nasa.gov/20230206_Turkey_EQ/
 * Sentinel-1 / Sentinel/Asia: https://sentinel-asia.org/EO/2023/article20230206TR.html
 * GTU Harita: https://www.linkedin.com/feed/update/urn:li:activity:7030446893453258752/
+* GEO Geohazard Supersites - Kahramanmaraş Event Supersite : http://geo-gsnl.org/supersites/event-supersites/active-event-supersites/kahramanmaras-event-supersite/
 
 # Mekansal Veriler (Geospatial Data)
 
