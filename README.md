@@ -114,6 +114,7 @@
 * Yol Çökmeleri Video: https://twitter.com/HavaForum/status/1624743536800284677
 * Deprem Sonrası Dev Çukur: https://www.ntv.com.tr/galeri/turkiye/deprem-sonrasi-dev-cukur-genisligi-30-derinligi-8-metre,YVkfKJOnlkilpXUS_cuqOw/I8ZUb0b-4EWTcszLldqJSQ
 * Anadolu Ajansı Drone Footage: https://twitter.com/anadoluagency/status/1625808092247085056?lang=en
+* Alman Uzay ve Havacılık Ajansı (Deutsches Zentrum für Luft- und Raumfahrt)- DLR supports emergency responders in Turkey: https://www.dlr.de/content/en/articles/news/2023/01/20230207_dlr-supports-emergency-responders-in-turkey.html
 
 # Faydalı Linkler (Other Links)
 * ESRI Earthquake Public Information Map: https://www.esri.com/en-us/disaster-response/disasters/earthquakes
