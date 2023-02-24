@@ -59,6 +59,7 @@
 * ODTU: https://eerc.metu.edu.tr/en/system/files/documents/DMAM_Report_2023_Kahramanmaras-Pazarcik_and_Elbistan_Earthquakes_Report_final_ENG.pdf
 * USGS - The 2023 Kahramanmaraş, Turkey, Earthquake Sequence: https://earthquake.usgs.gov/storymap/index-turkey2023.html
 * Yunan Araştırmacılar - Preliminary mapping of liquefaction: https://doi.org/10.5281/zenodo.7668400
+* Microsoft: https://www.microsoft.com/en-us/research/uploads/prod/2023/02/Turkey-Earthquake-Report-2_MS.pdf
 
 # Portaller
 * Açık Kaynak Hava Fotoğrafları - Uydu Görüntüleri: https://map.openaerialmap.org/
