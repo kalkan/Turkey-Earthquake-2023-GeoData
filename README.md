@@ -66,6 +66,7 @@
 * Başarsoft: https://deprem.basarsoft.com.tr/V2
 * Socioeconomic Data and Applications Center - https://sedac.ciesin.columbia.edu/mapping/hazards/
 * Deprem izleme arayüzü @EsriTurkiye - https://drp-esriturkiye.hub.arcgis.com
+* GEO Science Page: http://geo-gsnl.org/kahramanmaras-supersite-science-page/
 
 # Faydalı Tweetler (Tweets) 
 * Planet: https://twitter.com/planet
