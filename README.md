@@ -14,6 +14,7 @@
 * OpenAerialMap: https://openaerialmap.org/
 * Hidenori Watanave Storytelling: https://turkey.archiving.jp/
 * Planet, Maxar ve Capella Space Verileri (CC lisanslı), Batuhan Kavlak'ın Hesabı: https://docs.google.com/spreadsheets/d/1sO_cR_cvaEuKbchA3WwAaEuhZhuF3ExZGrFEp8pwl3M/ 
+* Dark Nights in Antakya - NASA Nightlights: https://earthobservatory.nasa.gov/images/151029/dark-nights-in-antakya
 
 ## RADAR
 
