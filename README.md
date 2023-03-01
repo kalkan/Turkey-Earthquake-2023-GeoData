@@ -25,6 +25,7 @@
 * Sentinel-1 / Sentinel/Asia: https://sentinel-asia.org/EO/2023/article20230206TR.html
 * GTU Harita: https://www.linkedin.com/feed/update/urn:li:activity:7030446893453258752/
 * GEO Geohazard Supersites - Kahramanmaraş Event Supersite : http://geo-gsnl.org/supersites/event-supersites/active-event-supersites/kahramanmaras-event-supersite/
+* JAXA: ALOS-2/PALSAR-2 ScanSAR data (free): https://www.eorc.jaxa.jp/ALOS/en/dataset/alos_open_and_free_e.htm
 
 # Mekansal Veriler (Geospatial Data)
 
