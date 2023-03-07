@@ -93,6 +93,7 @@
 * USGS - Surface Rapture Lines: https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=5229bb842bd64b688d769abbefe43b46
 * JAXA - Analysis examples by JAXA (ALOS-2): https://earth.jaxa.jp/en/earthview/2023/02/14/7381/index.html
 * GSI -The 2023 Turkey Earthquake: Crustal deformation detected by ALOS-2 data :https://www.gsi.go.jp/cais/topic20230206-e_Turkey.html
+* International Research Institute of Disaster Science - Tohoku University - https://irides.maps.arcgis.com/apps/dashboards/ffb8ae5f27964ad8843c5e99556e0ff5
 
 # Arazi Çalışmaları (Field Works)
 * Yersel Fotoğraflar: https://drive.google.com/drive/folders/1b99amdA6c1SnG642oj8UlvKEp4oHzL9U
